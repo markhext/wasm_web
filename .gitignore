@@ -25,3 +25,11 @@ dist-ssr
 
 wasm/target
 wasm/Cargo.lock
+
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
